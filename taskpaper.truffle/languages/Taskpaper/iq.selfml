@@ -1,0 +1,9 @@
+(detector
+    (extension taskpaper)
+    (extension todo)
+    (extension tasks)
+    (extension todolist))
+
+(pair [(]
+    [)]
+    (smart-typing))
